@@ -2,22 +2,6 @@
 
 > Biomimetic sea turtles swimming in ASCII on HTML canvas. Zero dependencies.
 
-```text
-               .---.
-              /     \   _
-             | () () | / )
-        .----'       '--'
-       /   :;;t%SX8#@   \
-      /  :;t%SX8#@8%t:   \==--.
-     |  ;t%SX8#@@#8X%t;   |   (
-      \  :;t%SX8#@8%t:   /==--'
-       \   :;;t%SX8#@   /
-        '----.       .--'
-             | () () | \_)
-              \     /
-               '---'
-```
-
 ![ASCII Sea Turtles Demo](demo.gif)
 
 Realistic sea turtle kinematics rendered entirely with monospace ASCII characters on an HTML `<canvas>`. Includes true differential flipper propulsion, scute pattern simulation, school-of-fish avoidance, interactive ripples, and four distinct sea turtle species.
