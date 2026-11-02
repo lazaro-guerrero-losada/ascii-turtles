@@ -18,6 +18,8 @@
                '---'
 ```
 
+![ASCII Sea Turtles Demo](demo.gif)
+
 Realistic sea turtle kinematics rendered entirely with monospace ASCII characters on an HTML `<canvas>`. Includes true differential flipper propulsion, scute pattern simulation, school-of-fish avoidance, interactive ripples, and four distinct sea turtle species.
 
 Inspired by [ascii-sharks](https://github.com/stackedlol/ascii-sharks).
