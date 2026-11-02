@@ -1,0 +1,30 @@
+{
+  "name": "ascii-turtles",
+  "version": "1.0.0",
+  "description": "Biomimetic sea turtles swimming in ASCII on HTML canvas. Zero dependencies.",
+  "author": "Lazaro Guerrero Losada",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "ascii",
+    "canvas",
+    "sea-turtle",
+    "turtle",
+    "ocean",
+    "animation",
+    "simulation",
+    "generative-art",
+    "react",
+    "typescript"
+  ],
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  }
+}
